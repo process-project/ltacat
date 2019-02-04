@@ -7,7 +7,7 @@ class Header extends React.Component {
                 <div className="slds-grid  slds-grid--vertical-align-center">
                     <div className="slds-col">
                         <h1 className="slds-page-header__title slds-truncate"><a href="http://www.frbcat.org">
-                        <img src="pics/FRBCAT-Logo-Guide-Colors-v03.png" height="112"/>
+                        <img src="pics/PROCESS_LOGO-e1521828071145.png" height="112"/>
                         </a>{this.props.text}</h1>
                     </div>
                 </div>
